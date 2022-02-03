@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/i dont understand what im making.mp3-f09b44f9d7dd7879971e42bab6455dbe.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/i dont understand what im making.mp3"
+dest_files=[ "res://.import/i dont understand what im making.mp3-f09b44f9d7dd7879971e42bab6455dbe.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

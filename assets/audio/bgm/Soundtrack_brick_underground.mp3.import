@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Soundtrack_brick_underground.mp3-c6f53275003c2786d09dc24e59fbc22e.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Soundtrack_brick_underground.mp3"
+dest_files=[ "res://.import/Soundtrack_brick_underground.mp3-c6f53275003c2786d09dc24e59fbc22e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
